@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horrid news from St. Martins, or, Unheard-of murder and poyson being a true relation how a girl not full sixteen years of age, murdered her own mother at one time, and a servant-maid at another with ratsbane : as also how she very lately gave poyson to two gentlewomen that since her mothers death kept and maintained her : upon which being aprehended, she has confess'd the former villanies, and was on Tuesday last, being the 19th of this instant June, committed to prison, where she now remains : with the substance of her examination, the like unnatural wickedness scarce ever read of before in any age : to which is added the taking of a man for murder committed at Islington two years ago, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44552</idno><idno type="EEBO-CITATION">12643304</idno>
+  <idno type="VID">65059</idno>
+  <idno type="EEBO-PROQUEST">2240975852</idno>
+  
+            <idno type="STC">Wing H2864</idno>
+            <idno type="STC">ESTC R32354</idno>
+            <idno type="OCLC">12643304</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1528:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horrid news from St. Martins, or, Unheard-of murder and poyson being a true relation how a girl not full sixteen years of age, murdered her own mother at one time, and a servant-maid at another with ratsbane : as also how she very lately gave poyson to two gentlewomen that since her mothers death kept and maintained her : upon which being aprehended, she has confess'd the former villanies, and was on Tuesday last, being the 19th of this instant June, committed to prison, where she now remains : with the substance of her examination, the like unnatural wickedness scarce ever read of before in any age : to which is added the taking of a man for murder committed at Islington two years ago, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poisoners --  England.</term>
+               <term type="topical_term">Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65059:1"/>
+            <p>Horrid News FROM St. MARTINS: OR, <hi>Ʋnheard-of Murder and Poyson.</hi>
+            </p>
+            <p>BEING A true Relation how a Girl not full Sixteen years of age, Murdered her own Mother at one time, and a Servant-maid at another with Ratsbane.</p>
+            <p>AS ALSO How she very lately gave Poyson to two Gentlewomen that since her Mothers Death kept and maintained her.</p>
+            <p>Upon which being aprehended, she has Confess'd the for<g ref="char:EOLhyphen"/>mer Villanies; and was on Tuesday last b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the 19th of this Instant <hi>June,</hi> committed to Prison, where she now remains.</p>
+            <p>With the substance of her Examination; the like unna<g ref="char:EOLhyphen"/>tural Wickedness scarce ever read of before in any Age.</p>
+            <p>To which is added The taking of a man for a Murder committed at <hi>Islington</hi> two years ago, <hi>&amp;c.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65059:2"/>
+            <pb n="3" facs="tcp:65059:2"/>
+            <head>POYSON and MURDER, <hi>&amp;c.</hi>
+            </head>
+            <p>A Preamble, though usually the Excre<g ref="char:EOLhyphen"/>scencie of a Pamphlet, is to this Nar<g ref="char:EOLhyphen"/>rative essentially necessary, the mat<g ref="char:EOLhyphen"/>ter being so very strange and impre<g ref="char:EOLhyphen"/>sidented as requires some preparato<g ref="char:EOLhyphen"/>ry Address to recommend it to the sober Rea<g ref="char:EOLhyphen"/>ders belief; It scarce salling within the compass of Imagination, much less credible probability, that an ignorant Girl that has nothing to be read in her face but Characters of Innocence, should be so well skill'd and detestably practised in the mysteries of Poysoning; that a Childe should be so barbarously unnatural as to murder her own dear Mother, so wickedly cruel that nothing could satisfie her Revenge upon the least imagi<g ref="char:EOLhyphen"/>nary Affront, but the lives of all that displeased her: That she should begin this practice so ear<g ref="char:EOLhyphen"/>ly, continue almost two years in it undiscover<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> might render the Relation suspitious, were it not a thing acted so neer at hand, so late<g ref="char:EOLhyphen"/>ly prosecuted, so amply made out both by her own Confession and other circumstantial Exami<g ref="char:EOLhyphen"/>nations
+<pb n="4" facs="tcp:65059:3"/>and proofs taken before the Justices, and confirm'd by her present Imprisonment, where she continues to acknowledge the same.</p>
+            <p>This Girl who has not yet attained to Sixteen years of age, being left, or rather as now ap<g ref="char:EOLhyphen"/>pears, having inhumanely made her self Mother<g ref="char:EOLhyphen"/>less somewhat above a year and a half ago, and consequently seeming an Object of Pity and Charity, was accordingly on that account en<g ref="char:EOLhyphen"/>tertain'd by a good Lady, who being a Widow, another Gentlewoman of good worth in the same Condition dwelt with her, under whom this un<g ref="char:EOLhyphen"/>happy Wench might have lived very happily, they both carrying themselves very kinde and indulgent to her; but having before made her self guilty of two horrid Murders, no wonder if Divine Justice to bring her to deserved punish<g ref="char:EOLhyphen"/>ment, suffer'd her by attempting a third Villany to discover the two first.</p>
+            <p>For so it happen'd, that upon some petty Fal<g ref="char:EOLhyphen"/>ling-out or Chiding from the two Gentlewomen for some Misdemeanour, or what other provoca<g ref="char:EOLhyphen"/>tion, is not yet certainly known, she became so wicked as to mix Poyson with some of their Pro<g ref="char:EOLhyphen"/>vision, as she prepared the same for them: Of which they had no sooner eaten, but they both grew desperately sick, so that it was concluded they would immediately have died. Some skil<g ref="char:EOLhyphen"/>ful persons being call'd, concluded by the sym<g ref="char:EOLhyphen"/>ptoms that they were poysoned, and according<g ref="char:EOLhyphen"/>ly administred <hi>Alexipharmacks</hi> (or Medicines
+<pb n="5" facs="tcp:65059:3"/>resisting and expelling Poyson) which with speedy Vomits had such good success, as 'tis hoped both their lives are safe, though one of them remains still in a very bad Condition.</p>
+            <p>It was observable that a Cat happening to lick up part of what one of the Ladies had cast, fell into a strange fit of trembling and swelling, and in a very short time died.</p>
+            <p>The Extremity of the danger being past, strict inquiry is made into the Author, who 'twas found could be no other than this Girl, having pass'd through nobodies hands but hers. Here<g ref="char:EOLhyphen"/>upon she is strictly questioned, and at first de<g ref="char:EOLhyphen"/>nied it, though the changeable Colours in her face, and trembling disorder gave her tongue the lye, and proclaim'd her guilty. At last af<g ref="char:EOLhyphen"/>ter much importunity and some suggestions of Pardon, she declared, That she did do it, and had given them Poyson once before, but in so small a quantity, that it onely made them sick for a short time, without further mischief. She al<g ref="char:EOLhyphen"/>leadged, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> she was instigated thereunto by a certain Woman, who is not yet found out, but on what occasion is not known.</p>
+            <p>Being further examined how she came by the Poyson, and whether she knew the destructive effects of it, She declared, That it wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ratsbane</hi> which she had had a great while, and knew what it would do well enough: For she had tried it
+<pb n="6" facs="tcp:65059:4"/>twice before. This last Expression caused them to question her more strictly how she meant; she told them, That before ever she came to her Mistriss she gave some of it to a Maid that was sick of the Small-pox, and afterwards gave some of the same to her own Mother; and they both died upon it.</p>
+            <p>This Discovery, especially concerning her Mother, fill'd all the Company with amazement and horrour, and made them inquire why she could endure to murther her Mother; to which the substance of her Reply was, That she was very sickly and troublesome, and she did it to be rid of her: and some such sorry reason she gave for poysoning the Maid.</p>
+            <p>Hereupon she was taken into Custody by a Constable, and again examin'd before two Justices of the Peace; where her Answers in effect were the same. Inquiry having been made into the manner of her Murthers and that Maids death, the Circumstances confirm what she confess'd, onely were not taken notice of then, because there was not the least suspition of any such Attempt.</p>
+            <p>She is at present committed to Prison, con<g ref="char:EOLhyphen"/>fessing
+<pb n="7" facs="tcp:65059:4"/>still her Crime, but begging of those that come to visit her, That they would me<g ref="char:EOLhyphen"/>diate for her to her Lady, to use her inte<g ref="char:EOLhyphen"/>rest to get her a Pardon: But these 'tis con<g ref="char:EOLhyphen"/>ceived are vain Childish hopes; and it will be better for her to repent, and prepare for her later End: That although she suffer justly in this World, she may through infi<g ref="char:EOLhyphen"/>nite Mercie obtain forgiveness in that which is to Come.</p>
+            <p>To this lamentable Narrative we cannot but adde another of the same Sanguine Com<g ref="char:EOLhyphen"/>plexion; and that is, Of the Apprehension of one of the Fellows that about two years ago was suspected for having a hand in Murther<g ref="char:EOLhyphen"/>ing a poor innocent Ditcher neer <hi>Islington:</hi> For which the other being taken about a Twelvemonth ago, Tryed, and Convicted, was Hang'd, though he cast the very Act of Kil<g ref="char:EOLhyphen"/>ling the man on this; who having lurk'd up and down in secret places, maintain'd by his Wife or Woman he used to keep Company; but happening lately to fall out with her, she
+<pb n="8" facs="tcp:65059:5"/>for some Misdemeanour, procured him to be put into a house of Correction; where a person coming accidentally out of Curiosity to view the House, knew and discovered him: Ʋpon which he was removed in order to his Tryal next Sessions.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65059:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
